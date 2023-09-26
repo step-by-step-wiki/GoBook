@@ -2,7 +2,7 @@
 
 * [项目简介](README.md)
 * [为你自己学Go]
-	* [01. Web框架概览-学习路线](./01.%20Web框架概览-学习路线.md)
+	* [01. Web框架概览-学习路线](https://github.com/step-by-step-wiki/GoInAction/blob/main/01.%20Web%E6%A1%86%E6%9E%B6%E6%A6%82%E8%A7%88-%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
 	* [02. Web框架概览-Beego框架分析](./02.%20Web框架概览-Beego框架分析.md)
 	* [03. Web框架概览-GIN框架分析](./03.%20Web框架概览-GIN框架分析.md)
 	* [04. Web框架概览-Iris框架分析](./04.%20Web框架概览-Iris框架分析.md)

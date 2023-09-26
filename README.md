@@ -2,7 +2,11 @@
 
 **Github地址(欢迎star): [GoInAction](https://github.com/step-by-step-wiki/GoInAction)**
 
-**Gitbook在线版: [为你自己学Go](https://www.step-by-step.wiki)**
+**Gitbook在线版: [为你自己学Go](https://go.step-by-step.wiki)**
+
+**另外还有一本Gitbook, 是Go的学习, [为你自己学Redis](https://redis.step-by-step.wiki), 欢迎学习和star🌟**
+
+# Highlights
 
 在做一件有意义的事情，文章会一直更新，直到生命结束
 

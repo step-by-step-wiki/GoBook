@@ -9,7 +9,4 @@ type ServerInterface interface {
 	http.Handler
 	// Start 启动服务器
 	Start(addr string) error
-
-	// addRoute 注册路由
-	addRoute(method string, pattern string, handler HandleFunc)
 }

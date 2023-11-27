@@ -52,6 +52,7 @@
 		- [03. Context-Gin Context设计分析](./PART05.%20Context/03.%20Context-Gin%20Context设计分析.md)
 		- [04. Context-Echo和Iris的Context设计分析](./PART05.%20Context/04.%20Context-Echo和Iris的Context设计分析.md)
 		- [05. Context-处理输入输出总结](./PART05.%20Context/05.%20Context-处理输入输出总结.md)
+		- [06. Context-处理输入之Body输入](./PART05.%20Context/06.%20Context-处理输入之Body输入.md)
 
 # About me
 **Url**: [https://sai.show/about](https://sai.show/about)

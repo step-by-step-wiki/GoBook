@@ -6,6 +6,9 @@
 
 **另外还有一本Gitbook, 是Go的学习, [为你自己学Redis](https://redis.step-by-step.wiki), 欢迎学习和star🌟**
 
+# About me
+**Url**: [https://sai.show/about](https://sai.show/about)
+
 # Highlights
 
 在做一件有意义的事情，文章会一直更新，直到生命结束
@@ -54,8 +57,6 @@
 		- [05. Context-处理输入输出总结](./PART05.%20Context/05.%20Context-处理输入输出总结.md)
 		- [06. Context-处理输入之Body输入](./PART05.%20Context/06.%20Context-处理输入之Body输入.md)
 		- [07. Context-处理输入之表单输入](./PART05.%20Context/07.%20Context-处理输入之表单输入.md)
-
-# About me
-**Url**: [https://sai.show/about](https://sai.show/about)
+		- [08. Context-处理输入之查询参数、路径参数和StringValue](./PART05.%20Context/08.%20Context-处理输入之查询参数、路径参数和StringValue.md)
 
 	

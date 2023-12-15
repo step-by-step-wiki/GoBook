@@ -63,5 +63,6 @@
 
 	- PART06. AOP
 	  - [01. AOP简介与不同框架设计概览](./PART06.%20AOP/01.%20AOP简介与不同框架设计概览.md)
+	  - [02. AOP设计方案-Middleware](./PART06.%20AOP/02.%20AOP设计方案-Middleware.md)
 
 	

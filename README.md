@@ -1,13 +1,13 @@
 # 说明
 
-**Github地址(欢迎star): [GoInAction](https://github.com/step-by-step-wiki/GoInAction)**
+**Github地址(欢迎star): [GoBook](https://github.com/step-by-step-wiki/GoBook)**
 
 **Gitbook在线版: [为你自己学Go](https://go.step-by-step.wiki)**
 
 **另外还有一本Gitbook, 是Go的学习, [为你自己学Redis](https://redis.step-by-step.wiki), 欢迎学习和star🌟**
 
 # About me
-**Url**: [https://sai.show/about](https://sai.show/about)
+**Url**: **[https://sai.show/about](https://sai.show/about)**
 
 # Highlights
 
@@ -64,5 +64,10 @@
 	- PART06. AOP
 	  - [01. AOP简介与不同框架设计概览](./PART06.%20AOP/01.%20AOP简介与不同框架设计概览.md)
 	  - [02. AOP设计方案-Middleware](./PART06.%20AOP/02.%20AOP设计方案-Middleware.md)
+
+	- PART07. Middleware
+	  - [01. Middleware-AccessLog](./PART07.%20Middleware/01.%20Middleware-AccessLog.md)
+		
+
 
 	

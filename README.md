@@ -2,9 +2,9 @@
 
 **Github地址(欢迎star): [GoBook](https://github.com/step-by-step-wiki/GoBook)**
 
-**Gitbook在线版: [为你自己学Go](https://go.step-by-step.wiki)**
+**Gitbook在线版: [为你自己学Go](https://go.sai.show)**
 
-**另外还有一本Gitbook, 是Go的学习, [为你自己学Redis](https://redis.step-by-step.wiki), 欢迎学习和star🌟**
+**另外还有一本Gitbook, 是Go的学习, [为你自己学Redis](https://redis.sai.show), 欢迎学习和star🌟**
 
 # About me
 **Url**: **[https://sai.show/about](https://sai.show/about)**
@@ -67,6 +67,7 @@
 
 	- PART07. Middleware
 	  - [01. Middleware-AccessLog](./PART07.%20Middleware/01.%20Middleware-AccessLog.md)
+		- [02. Middleware-Trace简介和OpenTelemetry](./PART07.%20Middleware/02.%20Middleware-Trace简介和OpenTelemetry.md)
 		
 # 赞助
 如果你觉得这个项目对你有帮助，请给我点个Star。并且情况允许的话，可以给我一点点支持，总之非常感谢支持～

@@ -15,6 +15,20 @@
 
 ![Web框架概览](./img/Web框架之%20Server与路由树%20/1.Web框架概览-学习路线/Web框架概览.png)
 
+# 赞助
+如果你觉得这个项目对你有帮助，请给我点个Star。并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
+
+<div style="display: flex; gap: 20px;">
+    <div style="text-align: center">
+        <img style="width: 200px" src="./img/好人有好报/wechat.jpg" alt="微信" />
+        <p>WeChat Pay</p>
+    </div>
+    <div style="text-align: center">
+        <img style="width: 200px" src="./img/好人有好报/alipay.jpg" alt="支付宝" />
+        <p>Alipay</p>
+    </div>
+</div>
+
 代码在[code](code)目录下
 
 文章按章节如下：
@@ -67,20 +81,7 @@
 
 	- PART07. Middleware
 	  - [01. Middleware-AccessLog](./PART07.%20Middleware/01.%20Middleware-AccessLog.md)
-		- [02. Middleware-Trace简介和OpenTelemetry](./PART07.%20Middleware/02.%20Middleware-Trace简介和OpenTelemetry.md)
+	  - [02. Middleware-Trace简介和OpenTelemetry](./PART07.%20Middleware/02.%20Middleware-Trace简介和OpenTelemetry.md)
+	  - [03. Middleware-OpenTelemetry测试](./PART07.%20Middleware/03.%20Middleware-OpenTelemetry测试.md)
+	  - [04. Middleware-OpenTelemetry总结](./PART07.%20Middleware/04.%20Middleware-OpenTelemetry总结.md)
 		
-# 赞助
-如果你觉得这个项目对你有帮助，请给我点个Star。并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
-
-<div style="display: flex; gap: 20px;">
-    <div style="text-align: center">
-        <img style="width: 200px" src="./img/好人有好报/wechat.jpg" alt="微信" />
-        <p>WeChat Pay</p>
-    </div>
-    <div style="text-align: center">
-        <img style="width: 200px" src="./img/好人有好报/alipay.jpg" alt="支付宝" />
-        <p>Alipay</p>
-    </div>
-</div>
-
-	

@@ -84,4 +84,5 @@
 	  - [02. Middleware-Trace简介和OpenTelemetry](./PART07.%20Middleware/02.%20Middleware-Trace简介和OpenTelemetry.md)
 	  - [03. Middleware-OpenTelemetry测试](./PART07.%20Middleware/03.%20Middleware-OpenTelemetry测试.md)
 	  - [04. Middleware-OpenTelemetry总结](./PART07.%20Middleware/04.%20Middleware-OpenTelemetry总结.md)
+	  - [05. Prometheus详解](./PART07.%20Middleware/05.%20Prometheus详解.md)
 		

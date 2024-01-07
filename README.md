@@ -10,8 +10,9 @@
 **Url**: **[https://sai.show/about](https://sai.show/about)**
 
 # Highlights
+目前在跟邓明老师（Beego现在的维护者）学习，每次学习完，都会进行大量练习，然后把老师讲的，和自己整理的（包含自己的截图、自己画的流程截图）写下来，因为自己也在转Go语言开发，把Go做为职业生涯的第二语言，我想着通过一个学习者的方式去形成一本书，这本书为你自己而学，为自己多一条选择而学，所以书名命为【为你自己学Go】，希望能对学习Go的大家有所帮助～
 
-在做一件有意义的事情，文章会一直更新，直到生命结束
+在做一件有意义的事情，文章会一直更新，直到结束
 
 ![Web框架概览](./img/Web框架之%20Server与路由树%20/1.Web框架概览-学习路线/Web框架概览.png)
 
@@ -85,4 +86,5 @@
 	  - [03. Middleware-OpenTelemetry测试](./PART07.%20Middleware/03.%20Middleware-OpenTelemetry测试.md)
 	  - [04. Middleware-OpenTelemetry总结](./PART07.%20Middleware/04.%20Middleware-OpenTelemetry总结.md)
 	  - [05. Prometheus详解](./PART07.%20Middleware/05.%20Prometheus详解.md)
+	  - [06. Middleware-Prometheus](./PART07.%20Middleware/06.%20Middleware-Prometheus.md)
 		

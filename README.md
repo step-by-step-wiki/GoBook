@@ -87,4 +87,9 @@
 	  - [04. Middleware-OpenTelemetry总结](./PART07.%20Middleware/04.%20Middleware-OpenTelemetry总结.md)
 	  - [05. Prometheus详解](./PART07.%20Middleware/05.%20Prometheus详解.md)
 	  - [06. Middleware-Prometheus](./PART07.%20Middleware/06.%20Middleware-Prometheus.md)
+
+	- 好用的小程序(欢迎体验呀)
+	  - [01.去抖音水印](./xiaochengxu/01.qushuiyin.md)
+	  - [02.密码管理](./xiaochengxu/02.password.md)
+	  
 		

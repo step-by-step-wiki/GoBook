@@ -88,6 +88,7 @@
 	  - [05. Prometheus详解](./PART07.%20Middleware/05.%20Prometheus详解.md)
 	  - [06. Middleware-Prometheus](./PART07.%20Middleware/06.%20Middleware-Prometheus.md)
 	  - [07. Middleware-错误页面](./PART07.%20Middleware/07.%20Middleware-错误页面.md)
+	  - [08. Middleware-从panic中恢复](./PART07.%20Middleware/08.%20Middleware-从panic中恢复.md)
 
 	- 好用的小程序(欢迎体验呀)
 	  - [01.去抖音水印](./xiaochengxu/01.qushuiyin.md)

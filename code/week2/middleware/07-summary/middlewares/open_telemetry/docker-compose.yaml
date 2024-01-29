@@ -1,0 +1,6 @@
+services:
+  # Zipkin
+  zipkin-all-in-one:
+    image: openzipkin/zipkin:latest
+    ports:
+      - "19411:9411"
